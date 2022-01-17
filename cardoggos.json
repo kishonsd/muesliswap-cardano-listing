@@ -1,0 +1,9 @@
+{
+    "policyId": "c502b95d98bb47e7e6b7c9a2f0ae37a97e71058a20bf9ec4b198578f",
+    "name": "Cardoggocoin",
+    "symbol": "DOGG",
+    "website": "https://cardoggos.io",
+    "description": "Truly the best Doggo on the Cardano blockchain.",
+    "totalSupply": 200000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}
